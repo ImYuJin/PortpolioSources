@@ -1,5 +1,5 @@
-title = "Eddie Webb"
-baseURL = "https://example.com/"
+title = "Yu"
+baseURL = "https://imyujin.github.io/"
 theme = "hugo-resume"
 languageCode = "en-us"
 PygmentsCodeFences = true
@@ -8,13 +8,13 @@ PygmentsStyle = "monokai"
 enableGitInfo = false
 
 [params]
-address = "Rollinsford, NH"
-email = "email@domain.com"
+address = "Seoul"
+email = "uj4759@gmail.com"
 favicon = "/favicon.ico"
-firstName = "Eddie"
-lastName = "Webb"
-phone = "1-555-555-1234"
-profileImage = "img/TechChat.png"
+firstName = "YuJin"
+lastName = "Park"
+phone = "010-xxxx-xxxx"
+profileImage = "img/imyujin.png"
 showEducation = true
 showExperience = true
 showOpenSource = true
@@ -33,7 +33,7 @@ link = "https://www.linkedin.com/in/edwardwebb/"
 name = "LinkedIn"
 
 [[params.handles]]
-link = "https://github.com/eddiewebb/"
+link = "https://github.com/ImYuJin/"
 name = "GitHub"
 
 [[params.handles]]
